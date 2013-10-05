@@ -1,0 +1,44 @@
+
+
+h1 {
+	margin-left:40px;
+}
+
+
+.name {
+	width:600px;
+	height:50px;
+	position:absolute;
+	background-color:#BBB;
+	padding:0px;
+	margin:0px;
+}
+
+.nameinput {
+	width:600px;
+	height:50px;
+	background-color:#BBB;
+	padding:0px;
+	margin:0px;	
+}
+
+.bio {
+	width:600px;
+	height:300px;
+	position:absolute;
+	background-color:#BBB;
+	padding:0px;
+	margin:0px;
+}
+
+.bioinput {
+	width:600px;
+	height:300px;
+	background-color:#BBB;
+	padding:0px;
+	margin:0px;	
+}
+
+.btn {
+	margin-bottom:20px;
+}
